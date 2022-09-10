@@ -1,0 +1,8 @@
+﻿  appbase.cpp
+  cwindow.cpp
+  device.cpp
+  main.cpp
+  Kod Üretiliyor...
+x64\Debug\shaderpipeline.obj : warning LNK4042: Nesne birden çok kez belirtildi; fazla olanlar yoksayıldı
+LINK : warning LNK4098: defaultlib 'MSVCRT' diğer kitaplıkların kullanımı ile çakışıyor; /NODEFAULTLIB:library kullanın
+  furkan.vcxproj -> C:\Users\Win10\source\repos\furkan\x64\Debug\furkan.exe
